@@ -1,1 +1,1 @@
-# UAT Repositorty
+# UAT Repository
